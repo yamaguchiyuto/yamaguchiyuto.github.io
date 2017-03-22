@@ -1,0 +1,58 @@
+div.container {
+margin: 10px 200px 50px 200px;
+width: 800px;
+}
+
+div.contact {
+width: 800px;
+height: 230px;
+}
+
+div.contact-left{
+margin: 15px 15px;
+float: left;
+width: 150px;
+}
+
+div.contact-right {
+float: right;
+width: 600px;
+}
+
+div.clear {
+float: none;
+}
+
+h1 {
+font-size: 20px;
+border-bottom: solid 1px;
+}
+
+h2 {
+font-size: 18px;
+border-bottom: solid 1px;
+}
+
+h3 {
+font-size: 14px;
+}
+
+ul {
+font-size: 14px;
+font-weight: normal;
+}
+
+ol {
+font-size: 14px;
+font-weight: normal;
+}
+
+p {font-size: 14px;}
+
+span.red {
+color: red;
+}
+
+span.orange {
+color: orange;
+}
